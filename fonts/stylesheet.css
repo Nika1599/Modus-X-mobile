@@ -1,0 +1,234 @@
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideThin.eot');
+    src: local('Ordina Wide Thin'), local('Ordina-WideThin'),
+        url('Ordina-WideThin.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideThin.woff2') format('woff2'),
+        url('Ordina-WideThin.woff') format('woff'),
+        url('Ordina-WideThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideThinOblique.eot');
+    src: local('Ordina Wide Thin Oblique'), local('Ordina-WideThinOblique'),
+        url('Ordina-WideThinOblique.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideThinOblique.woff2') format('woff2'),
+        url('Ordina-WideThinOblique.woff') format('woff'),
+        url('Ordina-WideThinOblique.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideExtralight.eot');
+    src: local('Ordina Wide Extralight'), local('Ordina-WideExtralight'),
+        url('Ordina-WideExtralight.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideExtralight.woff2') format('woff2'),
+        url('Ordina-WideExtralight.woff') format('woff'),
+        url('Ordina-WideExtralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideLightOblique.eot');
+    src: local('Ordina Wide Light Oblique'), local('Ordina-WideLightOblique'),
+        url('Ordina-WideLightOblique.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideLightOblique.woff2') format('woff2'),
+        url('Ordina-WideLightOblique.woff') format('woff'),
+        url('Ordina-WideLightOblique.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideExtralightOblique.eot');
+    src: local('Ordina Wide Extralight Oblique'), local('Ordina-WideExtralightOblique'),
+        url('Ordina-WideExtralightOblique.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideExtralightOblique.woff2') format('woff2'),
+        url('Ordina-WideExtralightOblique.woff') format('woff'),
+        url('Ordina-WideExtralightOblique.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideLight.eot');
+    src: local('Ordina Wide Light'), local('Ordina-WideLight'),
+        url('Ordina-WideLight.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideLight.woff2') format('woff2'),
+        url('Ordina-WideLight.woff') format('woff'),
+        url('Ordina-WideLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideOblique.eot');
+    src: local('Ordina Wide Oblique'), local('Ordina-WideOblique'),
+        url('Ordina-WideOblique.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideOblique.woff2') format('woff2'),
+        url('Ordina-WideOblique.woff') format('woff'),
+        url('Ordina-WideOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-Wide.eot');
+    src: local('Ordina Wide'), local('Ordina-Wide'),
+        url('Ordina-Wide.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-Wide.woff2') format('woff2'),
+        url('Ordina-Wide.woff') format('woff'),
+        url('Ordina-Wide.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideMedium.eot');
+    src: local('Ordina Wide Medium'), local('Ordina-WideMedium'),
+        url('Ordina-WideMedium.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideMedium.woff2') format('woff2'),
+        url('Ordina-WideMedium.woff') format('woff'),
+        url('Ordina-WideMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideSemibold.eot');
+    src: local('Ordina Wide Semibold'), local('Ordina-WideSemibold'),
+        url('Ordina-WideSemibold.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideSemibold.woff2') format('woff2'),
+        url('Ordina-WideSemibold.woff') format('woff'),
+        url('Ordina-WideSemibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideSemiboldOblique.eot');
+    src: local('Ordina Wide Semibold Oblique'), local('Ordina-WideSemiboldOblique'),
+        url('Ordina-WideSemiboldOblique.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideSemiboldOblique.woff2') format('woff2'),
+        url('Ordina-WideSemiboldOblique.woff') format('woff'),
+        url('Ordina-WideSemiboldOblique.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideMediumOblique.eot');
+    src: local('Ordina Wide Medium Oblique'), local('Ordina-WideMediumOblique'),
+        url('Ordina-WideMediumOblique.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideMediumOblique.woff2') format('woff2'),
+        url('Ordina-WideMediumOblique.woff') format('woff'),
+        url('Ordina-WideMediumOblique.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideBoldOblique.eot');
+    src: local('Ordina Wide Bold Oblique'), local('Ordina-WideBoldOblique'),
+        url('Ordina-WideBoldOblique.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideBoldOblique.woff2') format('woff2'),
+        url('Ordina-WideBoldOblique.woff') format('woff'),
+        url('Ordina-WideBoldOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideBold.eot');
+    src: local('Ordina Wide Bold'), local('Ordina-WideBold'),
+        url('Ordina-WideBold.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideBold.woff2') format('woff2'),
+        url('Ordina-WideBold.woff') format('woff'),
+        url('Ordina-WideBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideExtrabold.eot');
+    src: local('Ordina Wide Extrabold'), local('Ordina-WideExtrabold'),
+        url('Ordina-WideExtrabold.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideExtrabold.woff2') format('woff2'),
+        url('Ordina-WideExtrabold.woff') format('woff'),
+        url('Ordina-WideExtrabold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideExtraboldOblique.eot');
+    src: local('Ordina Wide Extrabold Oblique'), local('Ordina-WideExtraboldOblique'),
+        url('Ordina-WideExtraboldOblique.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideExtraboldOblique.woff2') format('woff2'),
+        url('Ordina-WideExtraboldOblique.woff') format('woff'),
+        url('Ordina-WideExtraboldOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideHeavy.eot');
+    src: local('Ordina Wide Heavy'), local('Ordina-WideHeavy'),
+        url('Ordina-WideHeavy.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideHeavy.woff2') format('woff2'),
+        url('Ordina-WideHeavy.woff') format('woff'),
+        url('Ordina-WideHeavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordina Wide';
+    src: url('Ordina-WideHeavyOblique.eot');
+    src: local('Ordina Wide Heavy Oblique'), local('Ordina-WideHeavyOblique'),
+        url('Ordina-WideHeavyOblique.eot?#iefix') format('embedded-opentype'),
+        url('Ordina-WideHeavyOblique.woff2') format('woff2'),
+        url('Ordina-WideHeavyOblique.woff') format('woff'),
+        url('Ordina-WideHeavyOblique.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
